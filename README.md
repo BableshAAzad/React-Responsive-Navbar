@@ -1,7 +1,12 @@
 # Responsive Navabar Unsing React
-
+# 1. Showing in Large Devices
 <p align="center">
   <img src="public/images/navBarExpand.PNG"/ alt="demo">
+</p>
+
+# 2. Showing in Small Devices
+<p align="center">
+  <img src="public/images/navBarColapse.PNG"/ alt="demo">
 </p>
 
 
